@@ -31,7 +31,7 @@ export default function Contact(){
         <> 
             <h2 className="text-center text-3xl w-full">Get In Touch</h2>
             
-            <p className="text-center margin-0 mx-auto w-2/3	">
+            <p className="text-center margin-0 mx-auto w-2/3">
                 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem 
                 ipsum lorem ipsum lorem ipsum 
             </p>
