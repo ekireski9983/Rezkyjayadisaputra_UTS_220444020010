@@ -13,6 +13,11 @@ export default function Dashboard() {
                                 <label>Contact</label>
                             </button>
                             </a>
+                            <a href="/about">
+                            <button className="mx-1 h-9 items-center justify-center px-4 rounded-md bg-red-500 text-white">
+                                <label>about</label>
+                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
