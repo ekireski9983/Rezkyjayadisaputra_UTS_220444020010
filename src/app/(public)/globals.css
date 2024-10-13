@@ -9,7 +9,16 @@
 body {
   @apply bg-gray-100;
 }
-
+/* Using Tailwind CSS */
+@media (prefers-color-scheme: no-preference) {
+  .dark\:bg-gray-800 {
+    @apply bg-white;
+  }
+  .dark\:text-gray-400 {
+    @apply text-gray-900;
+  }
+  /* Add more overrides as needed */
+}
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
